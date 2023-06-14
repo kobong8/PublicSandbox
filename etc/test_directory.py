@@ -10,4 +10,6 @@ new_path = os.getcwd()
 print(new_path)
 
 # get the list of all files and directories in the specified directory
-files_in_dir = os.listdir()
+fds_in_dir = os.listdir()
+print(f"type : {type(fds_in_dir)}")
+print(f"total: {len(fds_in_dir)}")
