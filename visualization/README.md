@@ -1,5 +1,9 @@
 # visualization
 
+- [Stacked bar chart](https://github.com/meticulousdev/PublicSandbox/blob/main/visualization/test_stacked_bar_chart.ipynb)
+
+![Stacked Bar Chart](https://github.com/meticulousdev/PublicSandbox/assets/83524779/a1c00353-b35c-47b3-837a-62124284d157)
+
 - [Two different axes](https://github.com/meticulousdev/TestCode/blob/main/visualization/test_two_different_axes.ipynb)
 
 ![bbe1d938-4b12-43ad-a4eb-4e37e9baaaf9](https://user-images.githubusercontent.com/83524779/224244101-faaa17a6-8960-4bef-8b37-ac4c75afd6d4.png)
