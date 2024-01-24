@@ -25,9 +25,9 @@
 ![radical_heatmap](https://user-images.githubusercontent.com/83524779/225642460-8a3d48b5-34e2-49a8-bfda-d4cb9b651b53.png)
 ![radical_heatmap_colorbar](https://user-images.githubusercontent.com/83524779/225642515-58b3a323-ff21-4c84-879c-8516910bd6d1.png)
 
-- [Codebook vector plot] (Coming soon)
+- [Codebook vector plot](https://github.com/meticulousdev/PublicSandbox/blob/main/visualization/test_codes_plot.ipynb))
 
-![Figure_3](https://user-images.githubusercontent.com/83524779/225647824-c3323313-0f31-4f15-a2e4-2b03fb90705f.png)
+![IMG_0146](https://github.com/meticulousdev/PublicSandbox/assets/83524779/8cfb2b0f-7a73-4d0b-a5ab-8379d6eb2b7f)
 
 - [Decision boundary] (Coming soon)
 
