@@ -1,5 +1,22 @@
 # visualization
 
+- [Radical convergence plot](https://github.com/meticulousdev/TestCode/blob/main/visualization/test_radical_convergence_plot/radical_convergence_plot.py)
+
+![radical_convergence_plot](https://user-images.githubusercontent.com/83524779/225640963-58c7b035-dd12-4d4c-9eeb-bd8b47aca642.png)
+
+- [Radical heatmap](https://github.com/meticulousdev/TestCode/blob/main/visualization/test_radical_heatmap/test_radical_heatmap.py)
+
+![radical_heatmap](https://user-images.githubusercontent.com/83524779/225642460-8a3d48b5-34e2-49a8-bfda-d4cb9b651b53.png)
+![radical_heatmap_colorbar](https://user-images.githubusercontent.com/83524779/225642515-58b3a323-ff21-4c84-879c-8516910bd6d1.png)
+
+- [Codebook vector plot](https://github.com/meticulousdev/PublicSandbox/blob/main/visualization/test_codes_plot.ipynb)
+
+![IMG_0146](https://github.com/meticulousdev/PublicSandbox/assets/83524779/8cfb2b0f-7a73-4d0b-a5ab-8379d6eb2b7f)
+
+- [Decision boundary] (Coming soon)
+
+![Figure_2](https://user-images.githubusercontent.com/83524779/225648216-5197e66f-fcb3-4e2e-9aba-111e7c230c78.png)
+
 - [Stacked bar chart](https://github.com/meticulousdev/PublicSandbox/blob/main/visualization/test_stacked_bar_chart.ipynb)
 
 ![Stacked Bar Chart](https://github.com/meticulousdev/PublicSandbox/assets/83524779/a1c00353-b35c-47b3-837a-62124284d157)
@@ -15,20 +32,3 @@
 - [Heatmap](https://github.com/meticulousdev/TestCode/blob/main/visualization/test_corr_heatmap.ipynb)
 
 ![f9303d00-ec9c-4d00-a34a-b4c1c2bed61e](https://user-images.githubusercontent.com/83524779/224243781-1cbc747d-654f-4fc0-af2b-19ca696ea4a0.png)
-
-- [Radical convergence plot](https://github.com/meticulousdev/TestCode/blob/main/visualization/test_radical_convergence_plot/radical_convergence_plot.py)
-
-![radical_convergence_plot](https://user-images.githubusercontent.com/83524779/225640963-58c7b035-dd12-4d4c-9eeb-bd8b47aca642.png)
-
-- [Radical heatmap](https://github.com/meticulousdev/TestCode/blob/main/visualization/test_radical_heatmap/test_radical_heatmap.py)
-
-![radical_heatmap](https://user-images.githubusercontent.com/83524779/225642460-8a3d48b5-34e2-49a8-bfda-d4cb9b651b53.png)
-![radical_heatmap_colorbar](https://user-images.githubusercontent.com/83524779/225642515-58b3a323-ff21-4c84-879c-8516910bd6d1.png)
-
-- [Codebook vector plot](https://github.com/meticulousdev/PublicSandbox/blob/main/visualization/test_codes_plot.ipynb))
-
-![IMG_0146](https://github.com/meticulousdev/PublicSandbox/assets/83524779/8cfb2b0f-7a73-4d0b-a5ab-8379d6eb2b7f)
-
-- [Decision boundary] (Coming soon)
-
-![Figure_2](https://user-images.githubusercontent.com/83524779/225648216-5197e66f-fcb3-4e2e-9aba-111e7c230c78.png)
