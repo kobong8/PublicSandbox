@@ -13,7 +13,7 @@
 
 ![IMG_0146](https://github.com/meticulousdev/PublicSandbox/assets/83524779/8cfb2b0f-7a73-4d0b-a5ab-8379d6eb2b7f)
 
-- [Decision boundary] (Coming soon)
+- [Decision boundary](https://github.com/meticulousdev/PublicSandbox/blob/main/visualization/test_clustering_boundary.ipynb)
 
 ![Figure_2](https://user-images.githubusercontent.com/83524779/225648216-5197e66f-fcb3-4e2e-9aba-111e7c230c78.png)
 
