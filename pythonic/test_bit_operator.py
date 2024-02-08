@@ -27,7 +27,7 @@ if __name__ == "__main__":
     print(f"or operation  : {bin(bit_string)}")
     print()
 
-    # OR opertor for 0b00 0b01 0b10 0b11
+    # OR operator for 0b00 0b01 0b10 0b11
     print("bit string | (or) operation test")
     print(f"{bin(0b01)} | {bin(0b00)} = {bin(0b01 | 0b00)}")
     print(f"{bin(0b01)} | {bin(0b01)} = {bin(0b01 | 0b01)}")
