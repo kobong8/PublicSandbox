@@ -1,0 +1,12 @@
+## TODO
+# conda env create
+name: venv 
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
