@@ -26,3 +26,11 @@ sudo systemctl restart docker
 sudo systemctl status docker
 # q를 누를 경우 멈춤
 ```
+
+```bash
+docker run -it --name=sys-container-l centos:7 echo 'Hello World!'
+```
+
+```bash
+docker cp index.html webserver1:/usr/share/nginx/html/index.html
+```
